@@ -11,5 +11,5 @@ package lottery_project;
  */
 public class Sequence {
     private int number [];
-    
+    // ein test
 }
