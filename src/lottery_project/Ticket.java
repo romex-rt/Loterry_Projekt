@@ -12,4 +12,5 @@ package lottery_project;
 public class Ticket {
     private String name = "";
     private int hits = 0;
+    /* dies ist ein Test*/
 }
