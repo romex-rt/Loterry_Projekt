@@ -11,7 +11,7 @@ package lottery_project;
  */
 public class Session {
     public static void main(String[] args) {
-        
+        IO io = new IO();
+        io.printMenu();
     }
-    
 }

@@ -13,12 +13,18 @@ import java.util.Scanner;
  */
 public class IO {
     private Scanner sc;
+    
     public IO() {
         sc = new Scanner(System.in);
     }
+   
     public void printMenu(){
-        System.out.println("=== Lottery Menu ===\n1 Enter ticket\n2 Lottery drawing\n3 Show result\n Quit\n Please enter (0-3):");
+        System.out.println("=== Lottery Menu ===");
+       System.out.println("1 Enter ticket");
+       System.out.println("2 Lottery drawing");
+       System.out.println("3 Show results");
+       System.out.println("0 Quit");
+       System.out.print("Please enter (0-3): ");
     }
- //test
 }
     
