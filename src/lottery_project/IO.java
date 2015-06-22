@@ -19,6 +19,6 @@ public class IO {
     public void printMenu(){
         System.out.println("=== Lottery Menu ===\n1 Enter ticket\n2 Lottery drawing\n3 Show result\n Quit\n Please enter (0-3):");
     }
- 
+ //test
 }
     
