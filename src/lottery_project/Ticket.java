@@ -10,5 +10,6 @@ package lottery_project;
  * @author ROMEX
  */
 public class Ticket {
-    
+    private String name = "";
+    private int hits = 0;
 }
